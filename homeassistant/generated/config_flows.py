@@ -17,6 +17,7 @@ FLOWS = [
     "cert_expiry",
     "coolmaster",
     "daikin",
+    "daikinskyport",
     "deconz",
     "dialogflow",
     "ecobee",
